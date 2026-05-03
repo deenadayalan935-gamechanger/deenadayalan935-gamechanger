@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm DeenaDayalan 👋
 
-<!--
-**deenadayalan935-gamechanger/deenadayalan935-gamechanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer in Training
 
-Here are some ideas to get you started:
+I'm on a 90-day sprint to land my first dev job.
+Currently building full-stack applications with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Frontend:* React · Next.js · TypeScript · Tailwind CSS  
+*Backend:* Node.js · Express · MongoDB  
+*Tools:* Git · Docker · Vercel
+
+### 🚧 Currently Building
+- A full-stack SaaS app with JWT auth and dashboard analytics
+
+### 📫 Connect
+- LinkedIn: 
